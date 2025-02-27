@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toton12345&label=Profile%20views&color=0e75b6&style=flat" alt="toton12345" /> </p>
 
-- 🔭 I’m currently working on **Siti Darshan Cable Net Company Private limited**
+- 🔭 I’m currently working on **Zita Telecommunication**
 
-- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking**
+- 🌱 I’m currently learning **Networking, Programming, Cybersecurity and Ethical Hacking**
 
 - 📝 I regularly write articles on [https://freesoft99.com/category/blog/](https://freesoft99.com/category/blog/)
 
