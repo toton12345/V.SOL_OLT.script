@@ -20,15 +20,9 @@ This repository contains a Bash script to automate the configuration of a VSOL O
 
 ## **Installation**
 1. Change the login IP, username, password, management IP, VLAN ID, hostname, port number according to your ISP.
+2. then RUN
 
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/olt-config-automation.git
-   cd olt-config-automation
-   ./file.sh
-   run the file.
-
-   Author
+Author
 RUPAM BAIDYA
 GitHub:(https://github.com/toton12345)
 
