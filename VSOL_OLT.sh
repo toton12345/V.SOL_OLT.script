@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Define the OLT credentials and IP address
-OLT_IP="10.31.70.251"  # Replace with the IP address of the OLT
+OLT_IP="192.168.8.100"  # Replace with the IP address of the OLT
 USERNAME="admin"       # Replace with the OLT username
-PASSWORD="admin1234"    # Replace with the OLT password
+PASSWORD="Xpon@Olt9417#"    # Replace with the OLT password
 
 # Define the configuration commands
 
