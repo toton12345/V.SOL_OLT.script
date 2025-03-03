@@ -7,6 +7,23 @@ This repository contains a Bash script to automate the configuration of a VSOL O
 ## **Features**
 - Automates the configuration of an OLT via Telnet for BSNL ( Data Voice)
 - It supports multiple configuration commands like vlan, hostname, and port configuration.
+hostname-aradhya_cable
+
+management Vlan-119
+internet Vlan-128-500
+voice vlan-1830,1831,1849
+
+management IP-10.210.107.81
+subnet musk-255.255.255.0
+gatway-10.210.107.1
+
+GE-5(uplink port) all vlan tag to uplink port
+
+pon-1 only internet vlan and voice vlan tag to the downlink port
+pon-2 only internet vlan and voice vlan tag to the downlink port
+pon-3 only internet vlan and voice vlan tag to the downlink port
+pon-4 only internet vlan and voice vlan tag to the downlink port
+
 - Saves the configuration after applying changes.
 
 ---
@@ -19,7 +36,7 @@ This repository contains a Bash script to automate the configuration of a VSOL O
 ---
 
 ## **Installation**
-1. Change the login IP, username, password, management IP, VLAN ID, hostname, port number according to your ISP.
+1. Change the login IP, username, password, management IP, VLAN ID, hostname, interface according to your ISP.
 2. then RUN
 
 Author
